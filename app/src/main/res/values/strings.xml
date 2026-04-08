@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kräutertee</string>
+    <string name="tab_kraeuter">Kräuter</string>
+    <string name="tab_karte">Karte</string>
+    <string name="tab_kalender">Kalender</string>
+    <string name="tab_rezepte">Rezepte</string>
+    <string name="tab_ki">KI-Assistent</string>
+    <string name="settings">Einstellungen</string>
+    <string name="api_key_label">Gemini API-Schlüssel</string>
+    <string name="save">Speichern</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="delete">Löschen</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="add">Hinzufügen</string>
+    <string name="channel_harvest_name">Erntekalender</string>
+    <string name="channel_harvest_desc">Erinnerungen für die Kräuterernte</string>
+    <string name="channel_drying_name">Trocknungskalender</string>
+    <string name="channel_drying_desc">Erinnerungen für die Kräutertrocknung</string>
+</resources>
